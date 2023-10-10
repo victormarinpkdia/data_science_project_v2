@@ -1,0 +1,2 @@
+from .google_vision import GoogleVisionImageObjectsLocalization
+from .objects_localization import IImageObjectsLocalizationService

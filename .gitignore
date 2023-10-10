@@ -1,0 +1,5 @@
+/poetry.lock
+/.env
+/.idea/.gitignore
+/main.py
+/downloads/
